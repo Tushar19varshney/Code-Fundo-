@@ -1,1 +1,2 @@
-# Code-Fundo-
+# Code-Fundo++
+A decentralized voting app built on Azure Blockchain application. The idea is to implement a branched blockchain. Every constituency having its own blockchain to secure the voting and counting process in the constituency and blockchains merging into a master blockchain to ensure secured voting at the national level. This will ensure mining of the new block in branched chains on less powerful computing devices that can be used at the remote constituencies. 
